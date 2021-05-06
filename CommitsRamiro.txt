@@ -1,5 +1,10 @@
-commit 6e4bad77e1a0cb1bba4f98cf091a7d8284773458 (HEAD -> master,
-origin/master)
+commit b594cf117563491f4db786919775f161ff2767ba (HEAD -> master)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 10:12:41 2021 -0500
+
+    Añadir Archivo Commits Ramiro
+
+commit 6e4bad77e1a0cb1bba4f98cf091a7d8284773458 (origin/master)
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 09:58:39 2021 -0500
 
