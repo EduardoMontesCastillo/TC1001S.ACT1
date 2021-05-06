@@ -34,11 +34,13 @@ def square(start, end):
     end_fill()
 
 def circle(start,end):
+    import turtle
     up()
     goto(start.x,start.y)
     down()
+    turtle.begin_fill()
     turtle.circle(end.x-start.x)
-
+    turtle.end_fill()
 
 def rectangle(start, end):
     "Draw rectangle from start to end."
