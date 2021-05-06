@@ -1,10 +1,16 @@
-commit b594cf117563491f4db786919775f161ff2767ba (HEAD -> master)
+commit 6566c15ac89ca7fc418f259cc8d1471680ae143c (HEAD -> ModRam)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 10:53:46 2021 -0500
+
+    Ingresar Triangulo en Codigo
+
+commit b594cf117563491f4db786919775f161ff2767ba (origin/master, master)
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 10:12:41 2021 -0500
 
     Añadir Archivo Commits Ramiro
 
-commit 6e4bad77e1a0cb1bba4f98cf091a7d8284773458 (origin/master)
+commit 6e4bad77e1a0cb1bba4f98cf091a7d8284773458
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 09:58:39 2021 -0500
 

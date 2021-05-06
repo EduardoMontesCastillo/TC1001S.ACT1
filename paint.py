@@ -44,8 +44,11 @@ def rectangle(start, end):
     down()
     begin_fill()
     for count in range (3):
-        forward(end.x - start.x)
-        left(60)
+        if(count%2==0):
+            forward(end.x-start.x)
+        else:
+            forward((end.x - start.x)/2)
+        left(90)
     end_fill()
 
 def triangle(start, end):
