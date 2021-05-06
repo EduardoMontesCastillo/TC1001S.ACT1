@@ -1,17 +1,17 @@
-ommit 87fd0ceff99baae8ecf40983fe6753bf21810ae1 (HEAD -> master)
+t c5a2c801de413c5784d849eccc7945ee69b6da7f (HEAD -> ModEdu)
 Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 11:02:51 2021 -0600
+ModColor
+commit 87fd0ceff99baae8ecf40983fe6753bf21810ae1 (origin/master, origin/HEAD,
+master)                                    Author: Eduardo Montes
+<eduardoandremontes@gmail.com>
 Date:   Thu May 6 09:21:10 2021 -0600
-
-    CommitEduardo.txt
-
-commit b594cf117563491f4db786919775f161ff2767ba (origin/master, origin/HEAD)
+CommitEduardo.txt
+commit b594cf117563491f4db786919775f161ff2767ba
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 10:12:41 2021 -0500
-
-    Añadir Archivo Commits Ramiro
-
+Añadir Archivo Commits Ramiro
 commit 6e4bad77e1a0cb1bba4f98cf091a7d8284773458
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Thu May 6 09:58:39 2021 -0500
-
-    Añadir Copia Original Juego
+Añadir Copia Original Juego  

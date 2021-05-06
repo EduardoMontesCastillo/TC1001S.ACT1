@@ -34,9 +34,10 @@ def square(start, end):
     end_fill()
 
 def circle(start,end):
-    begin_fill()
-    circle(100)
-    end_fill()
+    up()
+    goto(start.x,start.y)
+    down()
+    turtle.circle(end.x-start.x)
 
 
 def rectangle(start, end):
