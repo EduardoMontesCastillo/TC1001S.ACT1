@@ -1,0 +1,48 @@
+t 912c08fa1d043edfb2cd4243fb435744104c8850 (HEAD -> master, origin/master, origin/HEAD)
+Author: EduardoMontesCastillo <83718988+EduardoMontesCastillo@users.noreply.github.com>
+Date:   Fri May 7 09:48:10 2021 -0600
+
+    Update ReadMe.txt
+
+commit 435d0c718239da8b9cb900156e09054fa8dfc58f
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 15:11:21 2021 -0500
+
+    Cambios Circulo
+
+commit 290dfddedaca6e638dec4ac7fef2924d38e8ea6d
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 13:19:35 2021 -0500
+
+    Añadir Archivo ReadMe.txt
+
+commit 7d18ebc0c0d2e3c67975143cfadecbf404b1d0a3
+Merge: 17e7033 0c5c6d5
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:21:51 2021 -0500
+
+    Merge intento 2
+
+commit 17e703398df1319e3eec4040c8d51661e5e4db11
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 12:18:31 2021 -0500
+
+    Merge Triangulo Rectangulo
+
+commit 0c5c6d5f4a040f2f04e53c9dd00a1b832fa786d4
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 11:15:46 2021 -0600
+
+    Intento de circulo
+
+commit c5a2c801de413c5784d849eccc7945ee69b6da7f (origin/ModEdu)
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Thu May 6 11:02:51 2021 -0600
+
+    ModColor
+
+commit 6208db3c548744f67cbbc3ca9bd8c4c4c71c3b37 (origin/ModRam)
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Thu May 6 11:53:51 2021 -0500
+
+    Añade rectangulo
